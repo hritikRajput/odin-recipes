@@ -1,0 +1,15 @@
+h1{
+    background: lightcoral;
+    font-size: 32px;
+    text-align: center;
+}
+
+ul li{
+    font-size: 24px;
+    background: red;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
